@@ -7,6 +7,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto-mono+Code&weight=300&size=50&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=Hello!+My+name+is+Pedro;I'm+a+FullStack+developer)](https://git.io/typing-svg)
 
+<p align="center">
+💻 Full Stack Developer | Angular | NodeJs | .NET | SQL Server  <br>
+🚀 Apaixonado por criar soluções com qualidade.<br>
+🎯 Focado em performance e otimização.<br>
+🔗 Sempre aprendendo e compartilhando conhecimento.  
+</p>
 <br>
 <br>
 
@@ -24,7 +30,7 @@
 </a>
 
 
-<a  href="[https://www.linkedin.com/in/pedrohs1/]" target=_blank>
+<a  href="https://www.linkedin.com/in/pedrohs1/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 
@@ -39,21 +45,13 @@
 
 ### Main skills:
 <div align="center"> 
-
 <img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/3b3ad850-fce0-42ca-913f-31748d86a8f2">
 <img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/88502bf7-7e64-4800-a93c-31a252dff2bc">
-
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-
-
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/83ce64c3-ee31-47b2-9aec-17bcfcac4f45">
-
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-
 </div>
 
 
