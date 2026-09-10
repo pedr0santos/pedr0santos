@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto-mono+Code&weight=300&size=50&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=1000&lines=Hello!+My+name+is+Pedro;I'm+a+FullStack+developer)](https://git.io/typing-svg)
 
 <p align="center">
-💻 Full Stack Developer | Angular | NodeJs | .NET | SQL Server  <br>
+💻 Full Stack Developer | .NET | Angular | SQL Server  <br>
 🚀 Apaixonado por criar soluções com qualidade.<br>
 🎯 Focado em performance e otimização.<br>
 🔗 Sempre aprendendo e compartilhando conhecimento.  
